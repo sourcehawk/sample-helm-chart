@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  appstack:
+  - apiVersion: v2
+    appVersion: v1.0.0
+    created: "2026-01-04T22:05:42.510406874Z"
+    description: A Helm chart for Kubernetes
+    digest: b71f427fb6cdf51dcb99291a5310b42e53b102010473069fbb85366ed5e6bf0f
+    name: appstack
+    type: application
+    urls:
+    - https://sourcehawk.github.io/sample-helm-charts/charts/appstack-v1.0.0.tgz
+    version: v1.0.0
+generated: "2026-01-04T22:05:42.509684097Z"
